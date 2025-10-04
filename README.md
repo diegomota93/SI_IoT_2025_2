@@ -15,3 +15,7 @@ viewformusp=pp_url&entry
 ***Subistituir por***
 
 formResponse?&submit=Submit?usp=pp_url&entry
+
+# ** DICAS PYTHON **
+### Para instalar todas as bibliotecas:
+python -m pip install -r requirements.txt
